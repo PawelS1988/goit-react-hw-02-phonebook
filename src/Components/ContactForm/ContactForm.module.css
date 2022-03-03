@@ -18,11 +18,10 @@
 .add__btn {
   border: none;
   cursor: pointer;
-  background-color: rgba(255, 157, 0, 0.918);
-  color: aliceblue;
+  background-color: #fff;
+  color: #000;
   font-size: 15px;
   border-radius: 3px;
-  font-style: italic;
 }
 
 .add__btn:hover {
@@ -37,6 +36,6 @@
 }
 
 .input {
-  border: 2px solid cadetblue;
+  border: 2px solid #000;
   border-radius: 1px;
 }
